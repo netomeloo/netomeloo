@@ -7,8 +7,6 @@
 
 <div>
   <a href="https://github.com/netomeloo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? 
-  username=netomeloo&showicons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? 
-  username=netomeloo&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netomeloo&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netomeloo&layout=compact&theme=dark"/>
 </div>
